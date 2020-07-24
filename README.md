@@ -1,3 +1,3 @@
-# pratikmundokar.github.io
+# My Portfolio Link
 
-This is my portfolio:  https://pratikmundokar.github.io
+https://pratikmundokar.github.io
